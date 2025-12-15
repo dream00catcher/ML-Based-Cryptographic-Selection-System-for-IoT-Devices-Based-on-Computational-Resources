@@ -12,7 +12,9 @@ simulation to data analysis and supervised machine learning model training.
 ---
 
 ## Repository structure
-```
+
+```text
+.
 ├─ ESM 1 - Cryptographic Scripting/
 │ └─ Pseudocode, parameter configurations, and Python scripts implementing
 │ symmetric and hybrid cryptographic algorithms
