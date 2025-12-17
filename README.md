@@ -84,7 +84,7 @@ accessible through the Zenodo DOI associated with the repository release.
 The complete set of code, documentation, and large datasets described in the
 associated Data Note are openly available through Zenodo under the following DOI:
 
-> **DOI:** _to be added upon Zenodo release_
+> **DOI:** https://doi.org/10.5281/zenodo.17964920
 
 The Zenodo record contains:
 - A frozen snapshot of this GitHub repository
